@@ -1,6 +1,6 @@
-# flutter_wow
+# Maling by 
 
-A new Flutter project.
+Kelvin Wiriyatama and Muhammad Marzuqi Laksamana
 
 ## Getting Started
 
