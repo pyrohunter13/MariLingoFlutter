@@ -1,6 +1,6 @@
-# Maling by 
+# Maling  
 
-Kelvin Wiriyatama and Muhammad Marzuqi Laksamana
+by Kelvin Wiriyatama and Muhammad Marzuqi Laksamana
 
 ## Getting Started
 
