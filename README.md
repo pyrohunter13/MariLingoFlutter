@@ -8,7 +8,8 @@ duolingo
 
 ## About
 
-Quiz application with 4 diffrent type of quizzes:
+Quiz application for Bahasa Indonesia speakers to learn English.
+Include with 4 diffrent type of quizzes:
 1. Multiple Choice
 2. Short Answer
 3. Arrange random words
