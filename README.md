@@ -1,10 +1,10 @@
 # MaLing-MariLingo 
 
-by Kelvin Wiriyatama and Muhammad Marzuqi Laksamana
+by [Kelvin Wiriyatama](https://github.com/kelvin8701) and [Muhammad Marzuqi Laksamana](https://github.com/pyrohunter13)
 
 ## Inspired by
 
-duolingo
+Duolingo
 
 ## About
 
